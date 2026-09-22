@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "shardId": 1,
-  "generatedAt": "2026-09-22T06:57:21.347Z",
+  "generatedAt": "2026-09-22T09:22:30.088Z",
   "apps": [
     {
       "id": "com.github.rexlevin.cb-jsonbox",
@@ -105,6 +105,32 @@
       "riskLevel": "none",
       "showDownload": true,
       "issueUrl": "https://github.com/rexlevin/cb-imagebox/issues",
+      "disabledReason": null
+    },
+    {
+      "id": "com.github.rexlevin.cb-translate",
+      "repo": "https://github.com/rexlevin/cb-translate",
+      "name": "cb-translate",
+      "description": "灵译 - 轻量桌面翻译工具",
+      "description_en": "灵译 - 轻量桌面翻译工具",
+      "author": "rexlevin",
+      "category": "",
+      "tags": [],
+      "logo": "https://raw.githubusercontent.com/rexlevin/cb-translate/main/public/logo.png",
+      "homepage": "https://github.com/rexlevin/cb-translate",
+      "license": "Apache-2.0",
+      "type": "native",
+      "appVersion": "0.0.1",
+      "electronRange": "42.5.1",
+      "createdAt": "2026-09-22T03:17:05.000Z",
+      "lastCommitAt": "2026-09-22T03:21:00.000Z",
+      "stars": 0,
+      "forks": 0,
+      "status": "active",
+      "score": 100,
+      "riskLevel": "none",
+      "showDownload": true,
+      "issueUrl": "https://github.com/rexlevin/cb-translate/issues",
       "disabledReason": null
     }
   ]
