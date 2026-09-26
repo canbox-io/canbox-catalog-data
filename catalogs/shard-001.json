@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "shardId": 1,
-  "generatedAt": "2026-09-26T13:56:45.075Z",
+  "generatedAt": "2026-09-26T16:57:37.588Z",
   "apps": [
     {
       "id": "com.github.rexlevin.cb-jsonbox",
@@ -131,6 +131,32 @@
       "riskLevel": "none",
       "showDownload": true,
       "issueUrl": "https://github.com/rexlevin/cb-translate/issues",
+      "disabledReason": null
+    },
+    {
+      "id": "com.github.canbox-io.cb-editbox",
+      "repo": "https://github.com/canbox-io/cb-editbox",
+      "name": "editbox",
+      "description": "EditBox - 轻量桌面文本编辑器",
+      "description_en": "EditBox - 轻量桌面文本编辑器",
+      "author": "rexlevin",
+      "category": "",
+      "tags": [],
+      "logo": "https://raw.githubusercontent.com/canbox-io/cb-editbox/main/public/logo.png",
+      "homepage": "https://github.com/rexlevin/cb-editbox",
+      "license": "Apache-2.0",
+      "type": "native",
+      "appVersion": "0.0.1",
+      "electronRange": "42.5.1",
+      "createdAt": "2026-09-26T15:34:04.000Z",
+      "lastCommitAt": "2026-09-26T15:50:49.000Z",
+      "stars": 0,
+      "forks": 0,
+      "status": "active",
+      "score": 100,
+      "riskLevel": "none",
+      "showDownload": true,
+      "issueUrl": "https://github.com/canbox-io/cb-editbox/issues",
       "disabledReason": null
     }
   ]
