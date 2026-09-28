@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "shardId": 1,
-  "generatedAt": "2026-09-28T10:14:45.193Z",
+  "generatedAt": "2026-09-28T18:51:11.099Z",
   "apps": [
     {
       "id": "com.github.rexlevin.cb-jsonbox",
@@ -146,10 +146,10 @@
       "homepage": "https://github.com/rexlevin/cb-editbox",
       "license": "Apache-2.0",
       "type": "native",
-      "appVersion": "0.0.1",
+      "appVersion": "0.0.2",
       "electronRange": "42.5.1",
       "createdAt": "2026-09-26T15:34:04.000Z",
-      "lastCommitAt": "2026-09-26T15:50:49.000Z",
+      "lastCommitAt": "2026-09-28T10:14:39.000Z",
       "stars": 0,
       "forks": 0,
       "status": "active",
