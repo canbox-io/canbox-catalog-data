@@ -3,13 +3,13 @@
   "totalApps": 6,
   "totalShards": 1,
   "nextShardToVerify": 1,
-  "lastRefresh": "2026-09-30T20:22:33.523Z",
+  "lastRefresh": "2026-10-01T00:53:24.328Z",
   "shards": [
     {
       "id": 1,
       "file": "app_lists_shards/shard-001.json",
       "appCount": 6,
-      "lastChecked": "2026-09-30T20:22:33.523Z",
+      "lastChecked": "2026-10-01T00:53:24.328Z",
       "nextCheck": null
     }
   ]
