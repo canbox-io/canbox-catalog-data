@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "shardId": 1,
-  "generatedAt": "2026-10-10T07:49:37.057Z",
+  "generatedAt": "2026-10-10T14:50:06.778Z",
   "apps": [
     {
       "id": "com.github.rexlevin.cb-jsonbox",
@@ -42,10 +42,10 @@
       "homepage": "https://github.com/canbox-io/canbox-developer",
       "license": "Apache-2.0",
       "type": "native",
-      "appVersion": "0.1.6",
+      "appVersion": "0.1.7",
       "electronRange": "42.5.1",
       "createdAt": "2026-07-03T02:28:37.000Z",
-      "lastCommitAt": "2026-09-29T09:49:03.000Z",
+      "lastCommitAt": "2026-10-10T08:38:33.000Z",
       "stars": 0,
       "forks": 0,
       "status": "active",
