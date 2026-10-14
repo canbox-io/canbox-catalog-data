@@ -11,7 +11,7 @@
       "status": "active",
       "score": 100,
       "consecutiveFailures": 0,
-      "lastCheck": "2026-10-14T09:05:16.272Z",
+      "lastCheck": "2026-10-14T14:44:38.215Z",
       "repoStatus": "active",
       "repoStatusDetail": null,
       "hasValidCanboxApp": true,
@@ -23,7 +23,8 @@
           "range": "42.5.1"
         },
         "type": "native",
-        "webApp": null
+        "webApp": null,
+        "category": "development"
       },
       "_pkg": {
         "name": "cb-jsonbox",
@@ -95,7 +96,8 @@
       },
       "stars": 0,
       "forks": 0,
-      "lastCommitAt": "2026-09-22T07:14:29.000Z"
+      "lastCommitAt": "2026-10-14T09:21:48.000Z",
+      "canboxWarnings": []
     },
     {
       "id": "com.github.canbox-io.canbox-developer",
@@ -106,7 +108,7 @@
       "status": "active",
       "score": 100,
       "consecutiveFailures": 0,
-      "lastCheck": "2026-10-14T09:05:20.039Z",
+      "lastCheck": "2026-10-14T14:44:41.882Z",
       "repoStatus": "active",
       "repoStatusDetail": null,
       "hasValidCanboxApp": true,
@@ -118,7 +120,8 @@
           "range": "42.5.1"
         },
         "type": "native",
-        "webApp": null
+        "webApp": null,
+        "category": "development"
       },
       "_pkg": {
         "name": "canbox-developer",
@@ -180,7 +183,8 @@
       },
       "stars": 0,
       "forks": 0,
-      "lastCommitAt": "2026-10-10T08:38:33.000Z"
+      "lastCommitAt": "2026-10-14T09:26:23.000Z",
+      "canboxWarnings": []
     },
     {
       "id": "com.github.rexlevin.cb-hostsbox",
@@ -191,7 +195,7 @@
       "status": "active",
       "score": 100,
       "consecutiveFailures": 0,
-      "lastCheck": "2026-10-14T09:05:23.549Z",
+      "lastCheck": "2026-10-14T14:44:45.416Z",
       "repoStatus": "active",
       "repoStatusDetail": null,
       "hasValidCanboxApp": true,
@@ -203,7 +207,8 @@
           "range": "42.5.1"
         },
         "type": "native",
-        "webApp": null
+        "webApp": null,
+        "category": "network"
       },
       "_pkg": {
         "name": "cb-hostsbox",
@@ -277,7 +282,8 @@
       },
       "stars": 0,
       "forks": 0,
-      "lastCommitAt": "2026-08-22T09:25:33.000Z"
+      "lastCommitAt": "2026-10-14T09:21:45.000Z",
+      "canboxWarnings": []
     },
     {
       "id": "com.github.rexlevin.cb-imagebox",
@@ -288,7 +294,7 @@
       "status": "active",
       "score": 100,
       "consecutiveFailures": 0,
-      "lastCheck": "2026-10-14T09:05:27.130Z",
+      "lastCheck": "2026-10-14T14:44:48.919Z",
       "repoStatus": "active",
       "repoStatusDetail": null,
       "hasValidCanboxApp": true,
@@ -300,7 +306,8 @@
           "range": "42.5.1"
         },
         "type": "native",
-        "webApp": null
+        "webApp": null,
+        "category": "graphics"
       },
       "_pkg": {
         "name": "cb-imagebox",
@@ -377,7 +384,8 @@
       },
       "stars": 0,
       "forks": 0,
-      "lastCommitAt": "2026-09-03T02:22:15.000Z"
+      "lastCommitAt": "2026-10-14T09:21:46.000Z",
+      "canboxWarnings": []
     },
     {
       "id": "com.github.rexlevin.cb-translate",
@@ -388,7 +396,7 @@
       "status": "active",
       "score": 100,
       "consecutiveFailures": 0,
-      "lastCheck": "2026-10-14T09:05:30.651Z",
+      "lastCheck": "2026-10-14T14:44:52.421Z",
       "repoStatus": "active",
       "repoStatusDetail": null,
       "hasValidCanboxApp": true,
@@ -400,7 +408,8 @@
           "range": "42.5.1"
         },
         "type": "native",
-        "webApp": null
+        "webApp": null,
+        "category": "utility"
       },
       "_pkg": {
         "name": "cb-translate",
@@ -468,7 +477,8 @@
       },
       "stars": 0,
       "forks": 0,
-      "lastCommitAt": "2026-09-22T10:17:40.000Z"
+      "lastCommitAt": "2026-10-14T09:21:00.000Z",
+      "canboxWarnings": []
     },
     {
       "id": "com.github.rexlevin.cb-editbox",
@@ -479,7 +489,7 @@
       "status": "active",
       "score": 100,
       "consecutiveFailures": 0,
-      "lastCheck": "2026-10-14T09:05:34.136Z",
+      "lastCheck": "2026-10-14T14:44:55.872Z",
       "repoStatus": "active",
       "repoStatusDetail": null,
       "hasValidCanboxApp": true,
@@ -491,7 +501,8 @@
           "range": "42.5.1"
         },
         "type": "native",
-        "webApp": null
+        "webApp": null,
+        "category": "utility"
       },
       "_pkg": {
         "name": "editbox",
@@ -572,7 +583,8 @@
       },
       "stars": 0,
       "forks": 0,
-      "lastCommitAt": "2026-09-29T09:07:26.000Z"
+      "lastCommitAt": "2026-10-14T09:21:45.000Z",
+      "canboxWarnings": []
     }
   ]
 }
