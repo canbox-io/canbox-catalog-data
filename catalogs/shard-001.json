@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "shardId": 1,
-  "generatedAt": "2026-10-16T06:31:05.782Z",
+  "generatedAt": "2026-10-16T12:47:31.014Z",
   "apps": [
     {
       "id": "com.github.rexlevin.cb-jsonbox",
@@ -120,10 +120,10 @@
       "homepage": "https://github.com/rexlevin/cb-translate",
       "license": "Apache-2.0",
       "type": "native",
-      "appVersion": "0.0.1",
+      "appVersion": "0.0.2",
       "electronRange": "42.5.1",
       "createdAt": "2026-09-22T03:17:05.000Z",
-      "lastCommitAt": "2026-10-14T09:21:00.000Z",
+      "lastCommitAt": "2026-10-16T08:31:52.000Z",
       "stars": 0,
       "forks": 0,
       "status": "active",
