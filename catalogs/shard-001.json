@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "shardId": 1,
-  "generatedAt": "2026-10-22T02:09:38.001Z",
+  "generatedAt": "2026-10-22T08:58:55.540Z",
   "apps": [
     {
       "id": "com.github.rexlevin.cb-jsonbox",
@@ -68,10 +68,10 @@
       "homepage": "https://github.com/rexlevin/cb-hostsbox",
       "license": "Apache-2.0",
       "type": "native",
-      "appVersion": "1.1.3",
+      "appVersion": "1.1.4",
       "electronRange": "42.5.1",
       "createdAt": "2026-01-22T06:33:39.000Z",
-      "lastCommitAt": "2026-10-14T09:21:45.000Z",
+      "lastCommitAt": "2026-10-22T03:51:40.000Z",
       "stars": 0,
       "forks": 0,
       "status": "active",
