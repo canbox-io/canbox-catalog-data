@@ -11,7 +11,7 @@
       "status": "active",
       "score": 100,
       "consecutiveFailures": 0,
-      "lastCheck": "2026-10-27T06:55:45.686Z",
+      "lastCheck": "2026-10-27T13:41:25.974Z",
       "repoStatus": "active",
       "repoStatusDetail": null,
       "hasValidCanboxApp": true,
@@ -28,9 +28,10 @@
       },
       "_pkg": {
         "name": "cb-jsonbox",
+        "displayName": "JsonBox",
         "id": "com.github.rexlevin.cb-jsonbox",
         "private": true,
-        "version": "0.1.0",
+        "version": "0.1.1",
         "description": "JsonBox - 跨平台的 JSON 格式化工具",
         "author": "rexlevin",
         "license": "Apache-2.0",
@@ -51,21 +52,21 @@
           "start": "NODE_ENV=development electron -r /depot/cargo/canbox-core/injection.js . --app-id=cb-jsonbox --no-sandbox"
         },
         "dependencies": {
-          "bootstrap-icons": "^1.10.3",
-          "element-plus": "^2.10.7",
-          "lodash-es": "^4.17.21",
-          "monaco-editor": "^0.47.0",
-          "nanoid": "^3.3.4",
-          "vue": "^3.5.17",
-          "vue-router": "^4.5.1",
-          "x2js": "^3.4.4"
+          "nanoid": "^3.3.4"
         },
         "devDependencies": {
           "@vitejs/plugin-vue": "^6.0.0",
+          "bootstrap-icons": "^1.10.3",
           "electron": "42.5.1",
           "electron-builder": "^26.0.12",
+          "element-plus": "^2.10.7",
+          "lodash-es": "^4.17.21",
+          "monaco-editor": "^0.47.0",
           "typescript": "^5.9.2",
-          "vite": "^7.0.0"
+          "vite": "^7.0.0",
+          "vue": "^3.5.17",
+          "vue-router": "^4.5.1",
+          "x2js": "^3.4.4"
         },
         "build": {
           "appId": "com.github.rexlevin.cb-jsonbox",
@@ -96,7 +97,7 @@
       },
       "stars": 0,
       "forks": 0,
-      "lastCommitAt": "2026-10-26T09:39:13.000Z",
+      "lastCommitAt": "2026-10-27T07:51:00.000Z",
       "canboxWarnings": []
     },
     {
@@ -108,7 +109,7 @@
       "status": "active",
       "score": 100,
       "consecutiveFailures": 0,
-      "lastCheck": "2026-10-27T06:55:49.337Z",
+      "lastCheck": "2026-10-27T13:41:29.613Z",
       "repoStatus": "active",
       "repoStatusDetail": null,
       "hasValidCanboxApp": true,
@@ -127,7 +128,7 @@
         "name": "canbox-developer",
         "displayName": "DevBox",
         "id": "com.github.canbox-io.canbox-developer",
-        "version": "0.1.9",
+        "version": "0.2.0",
         "description": "Canbox 开发者工具 APP — 脚手架创建、源码目录调试启动、打包发布",
         "main": "main.js",
         "logo": "logo.png",
@@ -185,7 +186,7 @@
       },
       "stars": 0,
       "forks": 0,
-      "lastCommitAt": "2026-10-26T09:45:01.000Z",
+      "lastCommitAt": "2026-10-27T10:17:39.000Z",
       "canboxWarnings": []
     },
     {
@@ -197,7 +198,7 @@
       "status": "active",
       "score": 100,
       "consecutiveFailures": 0,
-      "lastCheck": "2026-10-27T06:55:52.924Z",
+      "lastCheck": "2026-10-27T13:41:33.159Z",
       "repoStatus": "active",
       "repoStatusDetail": null,
       "hasValidCanboxApp": true,
@@ -214,6 +215,7 @@
       },
       "_pkg": {
         "name": "cb-hostsbox",
+        "displayName": "HostsSwitcher",
         "id": "com.github.rexlevin.cb-hostsbox",
         "private": true,
         "version": "1.1.4",
@@ -284,7 +286,7 @@
       },
       "stars": 0,
       "forks": 0,
-      "lastCommitAt": "2026-10-26T09:38:34.000Z",
+      "lastCommitAt": "2026-10-27T08:18:56.000Z",
       "canboxWarnings": []
     },
     {
@@ -296,7 +298,7 @@
       "status": "active",
       "score": 100,
       "consecutiveFailures": 0,
-      "lastCheck": "2026-10-27T06:55:56.480Z",
+      "lastCheck": "2026-10-27T13:41:36.746Z",
       "repoStatus": "active",
       "repoStatusDetail": null,
       "hasValidCanboxApp": true,
@@ -398,7 +400,7 @@
       "status": "active",
       "score": 100,
       "consecutiveFailures": 0,
-      "lastCheck": "2026-10-27T06:56:00.022Z",
+      "lastCheck": "2026-10-27T13:41:40.378Z",
       "repoStatus": "active",
       "repoStatusDetail": null,
       "hasValidCanboxApp": true,
@@ -491,7 +493,7 @@
       "status": "active",
       "score": 100,
       "consecutiveFailures": 0,
-      "lastCheck": "2026-10-27T06:56:03.555Z",
+      "lastCheck": "2026-10-27T13:41:44.397Z",
       "repoStatus": "active",
       "repoStatusDetail": null,
       "hasValidCanboxApp": true,
