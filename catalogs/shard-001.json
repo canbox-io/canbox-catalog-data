@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "shardId": 1,
-  "generatedAt": "2026-10-31T22:54:23.214Z",
+  "generatedAt": "2026-11-01T02:52:29.714Z",
   "apps": [
     {
       "id": "com.github.rexlevin.cb-jsonbox",
@@ -88,7 +88,7 @@
       "id": "com.github.rexlevin.cb-imagebox",
       "repo": "https://github.com/rexlevin/cb-imagebox",
       "name": "cb-imagebox",
-      "displayName": "cb-imagebox",
+      "displayName": "ImageBox",
       "description": "ImageBox - 图片工具箱",
       "description_en": "ImageBox - 图片工具箱",
       "author": "rexlevin",
@@ -101,7 +101,7 @@
       "appVersion": "0.0.6",
       "electronRange": "42.5.1",
       "createdAt": "2026-03-27T11:39:08.000Z",
-      "lastCommitAt": "2026-10-14T09:21:46.000Z",
+      "lastCommitAt": "2026-11-01T01:15:17.000Z",
       "stars": 0,
       "forks": 0,
       "status": "active",
