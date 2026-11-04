@@ -494,7 +494,7 @@
       "status": "active",
       "score": 100,
       "consecutiveFailures": 0,
-      "lastCheck": "2026-11-04T03:36:15.430Z",
+      "lastCheck": "2026-11-04T09:27:41.037Z",
       "repoStatus": "active",
       "repoStatusDetail": null,
       "hasValidCanboxApp": true,
@@ -514,7 +514,7 @@
         "displayName": "EditBox",
         "id": "com.github.rexlevin.cb-editbox",
         "private": true,
-        "version": "0.0.8",
+        "version": "0.0.9",
         "description": "EditBox - 轻量桌面文本编辑器",
         "author": "rexlevin",
         "license": "Apache-2.0",
@@ -592,8 +592,15 @@
       },
       "stars": 0,
       "forks": 0,
-      "lastCommitAt": "2026-11-03T09:23:29.000Z",
-      "canboxWarnings": []
+      "lastCommitAt": "2026-11-04T08:55:36.000Z",
+      "canboxWarnings": [],
+      "origin": "submission",
+      "submission": {
+        "issue": 1,
+        "by": "rexlevin",
+        "at": "2026-11-04T09:27:40.268Z"
+      },
+      "lastRegisteredAt": "2026-11-04T09:27:40.268Z"
     }
   ]
 }

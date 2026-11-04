@@ -1,0 +1,26 @@
+{
+  "issue": 1,
+  "actor": "rexlevin",
+  "repo": "https://github.com/rexlevin/cb-editbox",
+  "appId": "com.github.rexlevin.cb-editbox",
+  "name": "editbox",
+  "version": "0.0.9",
+  "action": "updated",
+  "shardId": 1,
+  "downloadable": true,
+  "expectedAsset": "com.github.rexlevin.cb-editbox-0.0.9.zip",
+  "availableAssets": [
+    "com.github.rexlevin.cb-editbox-0.0.9.zip"
+  ],
+  "warnings": [],
+  "checks": {
+    "repo": "ok",
+    "canboxApp": "ok",
+    "packageJson": "ok"
+  },
+  "timestamp": "2026-11-04T09:27:41.296Z",
+  "ok": true,
+  "reason": null,
+  "message": "已刷新：`editbox` v0.0.9 已写入目录（原地更新）。\n\n- 仓库：https://github.com/rexlevin/cb-editbox\n- APP ID：`com.github.rexlevin.cb-editbox`\n- 目录分片：`shard-001`\n- Release 资产：已找到 `com.github.rexlevin.cb-editbox-0.0.9.zip`",
+  "closeIssue": true
+}
