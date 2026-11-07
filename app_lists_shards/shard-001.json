@@ -109,7 +109,7 @@
       "status": "active",
       "score": 100,
       "consecutiveFailures": 0,
-      "lastCheck": "2026-11-07T10:44:50.427Z",
+      "lastCheck": "2026-11-07T11:23:52.486Z",
       "repoStatus": "active",
       "repoStatusDetail": null,
       "hasValidCanboxApp": true,
@@ -128,7 +128,7 @@
         "name": "canbox-developer",
         "displayName": "DevBox",
         "id": "com.github.canbox-io.canbox-developer",
-        "version": "0.2.0",
+        "version": "0.2.1",
         "description": "Canbox 开发者工具 APP — 脚手架创建、源码目录调试启动、打包发布",
         "main": "main.js",
         "logo": "logo.png",
@@ -186,8 +186,15 @@
       },
       "stars": 0,
       "forks": 0,
-      "lastCommitAt": "2026-11-06T10:18:35.000Z",
-      "canboxWarnings": []
+      "lastCommitAt": "2026-11-07T10:59:44.000Z",
+      "canboxWarnings": [],
+      "origin": "submission",
+      "submission": {
+        "issue": 4,
+        "by": "rexlevin",
+        "at": "2026-11-07T11:23:52.003Z"
+      },
+      "lastRegisteredAt": "2026-11-07T11:23:52.003Z"
     },
     {
       "id": "com.github.rexlevin.cb-hostsbox",
