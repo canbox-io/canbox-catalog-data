@@ -1,16 +1,16 @@
 {
-  "issue": 4,
+  "issue": 5,
   "actor": "rexlevin",
-  "repo": "https://github.com/canbox-io/canbox-developer",
-  "appId": "com.github.canbox-io.canbox-developer",
-  "name": "canbox-developer",
-  "version": "0.2.1",
-  "action": "updated",
+  "repo": "https://github.com/rexlevin/cb-filecommander",
+  "appId": "com.github.rexlevin.cb-filecommander",
+  "name": "filecommander",
+  "version": "0.1.0",
+  "action": "added",
   "shardId": 1,
   "downloadable": true,
-  "expectedAsset": "com.github.canbox-io.canbox-developer-0.2.1.zip",
+  "expectedAsset": "com.github.rexlevin.cb-filecommander-0.1.0.zip",
   "availableAssets": [
-    "com.github.canbox-io.canbox-developer-0.2.1.zip"
+    "com.github.rexlevin.cb-filecommander-0.1.0.zip"
   ],
   "warnings": [],
   "checks": {
@@ -18,9 +18,9 @@
     "canboxApp": "ok",
     "packageJson": "ok"
   },
-  "timestamp": "2026-11-07T11:23:52.638Z",
+  "timestamp": "2026-11-10T13:03:17.077Z",
   "ok": true,
   "reason": null,
-  "message": "已刷新：`canbox-developer` v0.2.1 已写入目录（原地更新）。\n\n- 仓库：https://github.com/canbox-io/canbox-developer\n- APP ID：`com.github.canbox-io.canbox-developer`\n- 目录分片：`shard-001`\n- Release 资产：已找到 `com.github.canbox-io.canbox-developer-0.2.1.zip`",
+  "message": "已收录：`filecommander` v0.1.0 已写入目录（新增）。\n\n- 仓库：https://github.com/rexlevin/cb-filecommander\n- APP ID：`com.github.rexlevin.cb-filecommander`\n- 目录分片：`shard-001`\n- Release 资产：已找到 `com.github.rexlevin.cb-filecommander-0.1.0.zip`",
   "closeIssue": true
 }

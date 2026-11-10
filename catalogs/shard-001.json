@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "shardId": 1,
-  "generatedAt": "2026-11-10T11:54:50.320Z",
+  "generatedAt": "2026-11-10T13:03:17.076Z",
   "apps": [
     {
       "id": "com.github.rexlevin.cb-jsonbox",
@@ -163,6 +163,33 @@
       "riskLevel": "none",
       "showDownload": true,
       "issueUrl": "https://github.com/rexlevin/cb-editbox/issues",
+      "disabledReason": null
+    },
+    {
+      "id": "com.github.rexlevin.cb-filecommander",
+      "repo": "https://github.com/rexlevin/cb-filecommander",
+      "name": "filecommander",
+      "displayName": "FileCommander",
+      "description": "FileCommander - 双栏多标签轻量文件管理器",
+      "description_en": "FileCommander - 双栏多标签轻量文件管理器",
+      "author": "rexlevin",
+      "category": "utility",
+      "tags": [],
+      "logo": "https://raw.githubusercontent.com/rexlevin/cb-filecommander/main/public/logo.png",
+      "homepage": "https://github.com/rexlevin/cb-filecommander",
+      "license": "Apache-2.0",
+      "type": "native",
+      "appVersion": "0.1.0",
+      "electronRange": "42.5.1",
+      "createdAt": "2026-11-10T10:16:02.000Z",
+      "lastCommitAt": "2026-11-10T12:59:23.000Z",
+      "stars": 0,
+      "forks": 0,
+      "status": "active",
+      "score": 100,
+      "riskLevel": "none",
+      "showDownload": true,
+      "issueUrl": "https://github.com/rexlevin/cb-filecommander/issues",
       "disabledReason": null
     }
   ]
