@@ -1,16 +1,16 @@
 {
-  "issue": 6,
+  "issue": 7,
   "actor": "rexlevin",
   "repo": "https://github.com/rexlevin/cb-filecommander",
   "appId": "com.github.rexlevin.cb-filecommander",
   "name": "filecommander",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "action": "updated",
   "shardId": 1,
   "downloadable": true,
-  "expectedAsset": "com.github.rexlevin.cb-filecommander-0.1.3.zip",
+  "expectedAsset": "com.github.rexlevin.cb-filecommander-0.1.4.zip",
   "availableAssets": [
-    "com.github.rexlevin.cb-filecommander-0.1.3.zip"
+    "com.github.rexlevin.cb-filecommander-0.1.4.zip"
   ],
   "warnings": [],
   "checks": {
@@ -18,9 +18,9 @@
     "canboxApp": "ok",
     "packageJson": "ok"
   },
-  "timestamp": "2026-11-11T09:23:26.384Z",
+  "timestamp": "2026-11-11T10:11:54.682Z",
   "ok": true,
   "reason": null,
-  "message": "已刷新：`filecommander` v0.1.3 已写入目录（原地更新）。\n\n- 仓库：https://github.com/rexlevin/cb-filecommander\n- APP ID：`com.github.rexlevin.cb-filecommander`\n- 目录分片：`shard-001`\n- Release 资产：已找到 `com.github.rexlevin.cb-filecommander-0.1.3.zip`",
+  "message": "已刷新：`filecommander` v0.1.4 已写入目录（原地更新）。\n\n- 仓库：https://github.com/rexlevin/cb-filecommander\n- APP ID：`com.github.rexlevin.cb-filecommander`\n- 目录分片：`shard-001`\n- Release 资产：已找到 `com.github.rexlevin.cb-filecommander-0.1.4.zip`",
   "closeIssue": true
 }
