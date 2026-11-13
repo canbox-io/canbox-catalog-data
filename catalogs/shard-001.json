@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "shardId": 1,
-  "generatedAt": "2026-11-12T21:57:20.063Z",
+  "generatedAt": "2026-11-13T02:17:53.309Z",
   "apps": [
     {
       "id": "com.github.rexlevin.cb-jsonbox",
@@ -179,10 +179,10 @@
       "homepage": "https://github.com/rexlevin/cb-filecommander",
       "license": "Apache-2.0",
       "type": "native",
-      "appVersion": "0.1.4",
+      "appVersion": "0.1.5",
       "electronRange": "42.5.1",
       "createdAt": "2026-11-10T10:16:02.000Z",
-      "lastCommitAt": "2026-11-12T09:31:25.000Z",
+      "lastCommitAt": "2026-11-13T01:42:49.000Z",
       "stars": 0,
       "forks": 0,
       "status": "active",
