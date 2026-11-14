@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "shardId": 1,
-  "generatedAt": "2026-11-14T00:32:06.180Z",
+  "generatedAt": "2026-11-14T08:13:46.072Z",
   "apps": [
     {
       "id": "com.github.rexlevin.cb-jsonbox",
