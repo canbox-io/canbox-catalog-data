@@ -11,7 +11,7 @@
       "status": "active",
       "score": 100,
       "consecutiveFailures": 0,
-      "lastCheck": "2026-11-15T01:24:01.985Z",
+      "lastCheck": "2026-11-15T08:32:19.190Z",
       "repoStatus": "active",
       "repoStatusDetail": null,
       "hasValidCanboxApp": true,
@@ -48,7 +48,7 @@
           "dev": "vite --port 5173",
           "build": "vite build",
           "preview": "vite preview",
-          "dist": "electron-builder --linux dir",
+          "dist": "electron-builder --dir",
           "start": "NODE_ENV=development electron -r /depot/cargo/canbox-core/injection.js . --app-id=cb-jsonbox --no-sandbox"
         },
         "dependencies": {
@@ -84,6 +84,11 @@
             "target": [
               "dir"
             ]
+          },
+          "win": {
+            "target": [
+              "dir"
+            ]
           }
         }
       },
@@ -97,7 +102,7 @@
       },
       "stars": 0,
       "forks": 0,
-      "lastCommitAt": "2026-10-28T08:48:55.000Z",
+      "lastCommitAt": "2026-11-15T07:11:12.000Z",
       "canboxWarnings": []
     },
     {
@@ -109,7 +114,7 @@
       "status": "active",
       "score": 100,
       "consecutiveFailures": 0,
-      "lastCheck": "2026-11-15T01:24:05.592Z",
+      "lastCheck": "2026-11-15T08:32:22.707Z",
       "repoStatus": "active",
       "repoStatusDetail": null,
       "hasValidCanboxApp": true,
@@ -137,7 +142,7 @@
         "scripts": {
           "dev": "vite --host 0.0.0.0 --port 5102",
           "build": "vite build",
-          "dist": "electron-builder --linux dir",
+          "dist": "electron-builder --dir",
           "start": "cross-env NODE_ENV=development electron -r /depot/cargo/canbox-core/injection.js . --app-id=canbox-developer --no-sandbox"
         },
         "dependencies": {
@@ -152,7 +157,7 @@
           "@vitejs/plugin-vue": "^5.1.2",
           "cross-env": "^7.0.3",
           "electron": "42.5.1",
-          "electron-builder": "^26.0.12",
+          "electron-builder": "^26.18.0",
           "vite": "^5.4.6"
         },
         "build": {
@@ -173,6 +178,11 @@
             "target": [
               "dir"
             ]
+          },
+          "win": {
+            "target": [
+              "dir"
+            ]
           }
         }
       },
@@ -186,7 +196,7 @@
       },
       "stars": 0,
       "forks": 0,
-      "lastCommitAt": "2026-11-13T09:24:08.000Z",
+      "lastCommitAt": "2026-11-15T07:12:58.000Z",
       "canboxWarnings": [],
       "origin": "submission",
       "submission": {
@@ -205,7 +215,7 @@
       "status": "active",
       "score": 100,
       "consecutiveFailures": 0,
-      "lastCheck": "2026-11-15T01:24:09.174Z",
+      "lastCheck": "2026-11-15T08:32:26.129Z",
       "repoStatus": "active",
       "repoStatusDetail": null,
       "hasValidCanboxApp": true,
@@ -242,7 +252,7 @@
           "dev": "vite --port 5175",
           "build": "vite build",
           "preview": "vite preview",
-          "dist": "electron-builder --linux dir",
+          "dist": "electron-builder --dir",
           "start": "cross-env NODE_ENV=development electron -r ../canbox-core/injection.js . --app-id=cb-hostsbox --no-sandbox"
         },
         "dependencies": {
@@ -280,6 +290,11 @@
             "target": [
               "dir"
             ]
+          },
+          "win": {
+            "target": [
+              "dir"
+            ]
           }
         }
       },
@@ -293,7 +308,7 @@
       },
       "stars": 0,
       "forks": 0,
-      "lastCommitAt": "2026-10-27T08:18:56.000Z",
+      "lastCommitAt": "2026-11-15T07:11:16.000Z",
       "canboxWarnings": []
     },
     {
@@ -305,7 +320,7 @@
       "status": "active",
       "score": 100,
       "consecutiveFailures": 0,
-      "lastCheck": "2026-11-15T01:24:12.724Z",
+      "lastCheck": "2026-11-15T08:32:29.559Z",
       "repoStatus": "active",
       "repoStatusDetail": null,
       "hasValidCanboxApp": true,
@@ -344,7 +359,7 @@
           "dev": "vite --port 5173",
           "build": "vite build",
           "preview": "vite preview",
-          "dist": "electron-builder --linux dir",
+          "dist": "electron-builder --dir",
           "start": "cross-env NODE_ENV=development electron -r ../canbox-core/injection.js . --app-id=cb-imagebox --no-sandbox"
         },
         "dependencies": {
@@ -383,6 +398,11 @@
             "target": [
               "dir"
             ]
+          },
+          "win": {
+            "target": [
+              "dir"
+            ]
           }
         }
       },
@@ -396,7 +416,7 @@
       },
       "stars": 0,
       "forks": 0,
-      "lastCommitAt": "2026-11-01T01:15:17.000Z",
+      "lastCommitAt": "2026-11-15T07:11:14.000Z",
       "canboxWarnings": []
     },
     {
@@ -408,7 +428,7 @@
       "status": "active",
       "score": 100,
       "consecutiveFailures": 0,
-      "lastCheck": "2026-11-15T01:24:16.488Z",
+      "lastCheck": "2026-11-15T08:32:33.042Z",
       "repoStatus": "active",
       "repoStatusDetail": null,
       "hasValidCanboxApp": true,
@@ -501,7 +521,7 @@
       "status": "active",
       "score": 100,
       "consecutiveFailures": 0,
-      "lastCheck": "2026-11-15T01:24:20.208Z",
+      "lastCheck": "2026-11-15T08:32:36.525Z",
       "repoStatus": "active",
       "repoStatusDetail": null,
       "hasValidCanboxApp": true,
@@ -538,7 +558,7 @@
           "dev": "vite --port 5181",
           "build": "vite build",
           "preview": "vite preview",
-          "dist": "electron-builder --linux dir",
+          "dist": "electron-builder --dir",
           "start": "cross-env NODE_ENV=development electron -r ../canbox-core/injection.js . --app-id=cb-editbox --no-sandbox"
         },
         "dependencies": {
@@ -587,6 +607,11 @@
             "target": [
               "dir"
             ]
+          },
+          "win": {
+            "target": [
+              "dir"
+            ]
           }
         }
       },
@@ -600,7 +625,7 @@
       },
       "stars": 0,
       "forks": 0,
-      "lastCommitAt": "2026-11-13T09:55:26.000Z",
+      "lastCommitAt": "2026-11-15T06:21:20.000Z",
       "canboxWarnings": [],
       "origin": "submission",
       "submission": {
@@ -619,7 +644,7 @@
       "status": "active",
       "score": 100,
       "consecutiveFailures": 0,
-      "lastCheck": "2026-11-15T01:24:23.764Z",
+      "lastCheck": "2026-11-15T08:32:40.057Z",
       "repoStatus": "active",
       "repoStatusDetail": null,
       "hasValidCanboxApp": true,
@@ -628,7 +653,7 @@
       "errorHistory": [],
       "stars": 0,
       "forks": 0,
-      "lastCommitAt": "2026-11-13T15:02:45.000Z",
+      "lastCommitAt": "2026-11-15T07:11:48.000Z",
       "origin": "submission",
       "submission": {
         "issue": 7,
@@ -670,7 +695,7 @@
           "dev": "vite --port 5182",
           "build": "vite build",
           "preview": "vite preview",
-          "dist": "electron-builder --linux dir",
+          "dist": "electron-builder --dir",
           "start": "cross-env NODE_ENV=development electron -r ../canbox-core/injection.js . --app-id=cb-filecommander --no-sandbox"
         },
         "devDependencies": {
@@ -695,11 +720,17 @@
             "main.js",
             "preload.js",
             "lib/**/*",
+            "icons/**/*",
             "build/**/*",
             "public/**/*",
             "package.json"
           ],
           "linux": {
+            "target": [
+              "dir"
+            ]
+          },
+          "win": {
             "target": [
               "dir"
             ]
