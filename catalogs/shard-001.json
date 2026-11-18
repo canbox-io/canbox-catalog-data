@@ -1,10 +1,11 @@
 {
   "schemaVersion": 2,
   "shardId": 1,
-  "generatedAt": "2026-11-18T04:54:26.757Z",
+  "generatedAt": "2026-11-18T14:42:12.742Z",
   "apps": [
     {
       "id": "com.github.rexlevin.cb-jsonbox",
+      "platform": "github",
       "repo": "https://github.com/rexlevin/cb-jsonbox",
       "name": "cb-jsonbox",
       "displayName": "JsonBox",
@@ -32,6 +33,7 @@
     },
     {
       "id": "com.github.canbox-io.canbox-developer",
+      "platform": "github",
       "repo": "https://github.com/canbox-io/canbox-developer",
       "name": "canbox-developer",
       "displayName": "DevBox",
@@ -59,6 +61,7 @@
     },
     {
       "id": "com.github.rexlevin.cb-hostsbox",
+      "platform": "github",
       "repo": "https://github.com/rexlevin/cb-hostsbox",
       "name": "cb-hostsbox",
       "displayName": "HostsSwitcher",
@@ -86,6 +89,7 @@
     },
     {
       "id": "com.github.rexlevin.cb-imagebox",
+      "platform": "github",
       "repo": "https://github.com/rexlevin/cb-imagebox",
       "name": "cb-imagebox",
       "displayName": "ImageBox",
@@ -113,6 +117,7 @@
     },
     {
       "id": "com.github.rexlevin.cb-translate",
+      "platform": "github",
       "repo": "https://github.com/rexlevin/cb-translate",
       "name": "cb-translate",
       "displayName": "cb-translate",
@@ -140,6 +145,7 @@
     },
     {
       "id": "com.github.rexlevin.cb-editbox",
+      "platform": "github",
       "repo": "https://github.com/rexlevin/cb-editbox",
       "name": "editbox",
       "displayName": "EditBox",
@@ -167,6 +173,7 @@
     },
     {
       "id": "com.github.rexlevin.cb-filecommander",
+      "platform": "github",
       "repo": "https://github.com/rexlevin/cb-filecommander",
       "name": "filecommander",
       "displayName": "FileCommander",
