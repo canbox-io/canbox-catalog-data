@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "shardId": 1,
-  "generatedAt": "2026-11-26T03:49:44.705Z",
+  "generatedAt": "2026-11-26T13:18:19.933Z",
   "apps": [
     {
       "id": "com.github.rexlevin.cb-jsonbox",
@@ -18,6 +18,7 @@
       "homepage": "https://github.com/rexlevin/cb-jsonbox",
       "license": "Apache-2.0",
       "type": "native",
+      "platforms": [],
       "appVersion": "0.1.2",
       "electronRange": "42.5.1",
       "createdAt": "2026-02-08T04:05:13.000Z",
@@ -46,6 +47,7 @@
       "homepage": "https://github.com/canbox-io/canbox-developer",
       "license": "Apache-2.0",
       "type": "native",
+      "platforms": [],
       "appVersion": "0.2.2",
       "electronRange": "42.5.1",
       "createdAt": "2026-07-03T02:28:37.000Z",
@@ -74,6 +76,7 @@
       "homepage": "https://github.com/rexlevin/cb-hostsbox",
       "license": "Apache-2.0",
       "type": "native",
+      "platforms": [],
       "appVersion": "1.1.4",
       "electronRange": "42.5.1",
       "createdAt": "2026-01-22T06:33:39.000Z",
@@ -102,6 +105,7 @@
       "homepage": "https://github.com/rexlevin/cb-imagebox",
       "license": "Apache-2.0",
       "type": "native",
+      "platforms": [],
       "appVersion": "0.0.6",
       "electronRange": "42.5.1",
       "createdAt": "2026-03-27T11:39:08.000Z",
@@ -130,6 +134,7 @@
       "homepage": "https://github.com/rexlevin/cb-translate",
       "license": "Apache-2.0",
       "type": "native",
+      "platforms": [],
       "appVersion": "0.0.2",
       "electronRange": "42.5.1",
       "createdAt": "2026-09-22T03:17:05.000Z",
@@ -158,6 +163,7 @@
       "homepage": "https://github.com/rexlevin/cb-editbox",
       "license": "Apache-2.0",
       "type": "native",
+      "platforms": [],
       "appVersion": "0.1.1",
       "electronRange": "42.5.1",
       "createdAt": "2026-09-26T15:34:04.000Z",
@@ -186,6 +192,10 @@
       "homepage": "https://github.com/rexlevin/cb-filecommander",
       "license": "Apache-2.0",
       "type": "native",
+      "platforms": [
+        "windows",
+        "linux"
+      ],
       "appVersion": "0.1.8",
       "electronRange": "42.5.1",
       "createdAt": "2026-11-10T10:16:02.000Z",
